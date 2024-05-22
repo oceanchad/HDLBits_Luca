@@ -1,4 +1,0 @@
-與D latch相似，但是值只有在clock edge才會變化
-
-Rising-edge trigger clk為正常buffer gate
-Falling-edge trigger clk為inverter gate
